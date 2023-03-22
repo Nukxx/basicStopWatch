@@ -9,7 +9,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
     private TextView timerTextView;
     private Button startButton, stopButton, resetButton;
 
